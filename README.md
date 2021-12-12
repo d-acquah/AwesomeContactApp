@@ -1,4 +1,4 @@
-# Awesome Cntact App
+# Awesome Contact App
 
 A contact book app built with [Flutter](https://flutter.dev)
 
